@@ -5,3 +5,10 @@ C:\Users\gulsh\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy
 C:\Users\gulsh\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.csproj.CoreCompileInputs.cache
 C:\Users\gulsh\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.exe
 C:\Users\gulsh\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\Strategy Pattern.pdb
+E:\Codes\Design Patterns in C#\DesignPatterns\Strategy Pattern\bin\Debug\Strategy Pattern.exe.config
+E:\Codes\Design Patterns in C#\DesignPatterns\Strategy Pattern\bin\Debug\Strategy Pattern.exe
+E:\Codes\Design Patterns in C#\DesignPatterns\Strategy Pattern\bin\Debug\Strategy Pattern.pdb
+E:\Codes\Design Patterns in C#\DesignPatterns\Strategy Pattern\obj\Debug\Strategy Pattern.csprojAssemblyReference.cache
+E:\Codes\Design Patterns in C#\DesignPatterns\Strategy Pattern\obj\Debug\Strategy Pattern.csproj.CoreCompileInputs.cache
+E:\Codes\Design Patterns in C#\DesignPatterns\Strategy Pattern\obj\Debug\Strategy Pattern.exe
+E:\Codes\Design Patterns in C#\DesignPatterns\Strategy Pattern\obj\Debug\Strategy Pattern.pdb
